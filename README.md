@@ -12,7 +12,7 @@ git clone https://github.com/divanov11/mychat
 
 #### 2 - Install requirements
 ```
-cd mychat
+cd NotAloneChat
 pip install -r requirements.txt
 ```
 
